@@ -1,0 +1,2 @@
+# Envio de E-mail com Anexo via Outlook em Python com Tkinter
+ Este script em Python utiliza a biblioteca Tkinter para criar uma interface gráfica que permite ao usuário enviar e-mails com anexos através do Outlook. Insira o destinatário, assunto, mensagem e, opcionalmente, selecione um arquivo para anexar. Clique em "Enviar" para enviar o e-mail. Uma aplicação útil para facilitar o envio de e-mails com anexos usando o Outlook.
